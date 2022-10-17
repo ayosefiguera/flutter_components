@@ -10,7 +10,7 @@ class CustomCardType1 extends StatelessWidget {
         child: Column(children: [
       const ListTile(
         leading: Icon(Icons.photo_album_outlined, color: AppTheme.primary),
-        title: Text('soy un titulo'),
+        title: Text('Tittle'),
         subtitle: Text(
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ex mauris,'),
       ),
